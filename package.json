@@ -159,7 +159,7 @@
     "terminal-link": "^2.1.1",
     "tiny-glob": "^0.2.9",
     "tree-kill": "^1.2.2",
-    "ts-json-schema-generator": "^0.95.0",
+    "ts-json-schema-generator": "^0.97.0",
     "ts-morph": "^12.0.0",
     "type-fest": "^1.1.1",
     "typeconv": "^1.7.0",
